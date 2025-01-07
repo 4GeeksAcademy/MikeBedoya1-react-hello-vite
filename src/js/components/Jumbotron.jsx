@@ -2,7 +2,7 @@ import React from "react";
 
 function Jumbotron() {
   return (
-    <div className="container-flex">
+    <div className="container-flex mt-3 ms-2 me-2">
       <div>
         <div className="p-5 mb-4 bg-body-tertiary rounded-2">
           <div className="container-fluid py-5">
